@@ -259,7 +259,7 @@ main{
 }
 
 .footer-para{
-    color: blueviolet;
+    color: black;
     text-align: center;
     padding: 0 650px 32px 650px;
 
@@ -280,3 +280,8 @@ main{
 .footer-title{
     text-align: center;
 } */
+
+.off-color{
+    color: #E55473;
+}
+
