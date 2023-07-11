@@ -236,3 +236,47 @@ main{
 #alignment{
     margin-left: 15px;
 }
+
+/* footer related css */
+.foot{
+    width: 1920px;
+    height: 600px;
+    background: rgba(229, 84, 115, 0.05);
+
+    align-items: center;
+    background-image: url('../Flower-Asset/backi1.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.footer-title{
+    font-size: 48px;
+    font-weight: 800;
+    padding: 128px 830px 24px 820px;
+}
+
+#flower-color{
+    color: #E55473;
+}
+
+.footer-para{
+    color: blueviolet;
+    text-align: center;
+    padding: 0 650px 32px 650px;
+
+}
+.copyright{
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 125px;
+}
+
+/* footer{
+    max-width: 100%;
+    background: aquamarine;
+    align-items: center;
+}
+.footer-title{
+    text-align: center;
+} */
