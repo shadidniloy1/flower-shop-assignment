@@ -272,16 +272,26 @@ main{
     padding-bottom: 125px;
 }
 
-/* footer{
-    max-width: 100%;
-    background: aquamarine;
-    align-items: center;
-}
-.footer-title{
-    text-align: center;
-} */
-
 .off-color{
     color: #E55473;
+}
+
+
+/* extra */
+
+.last-back{
+    background-image: url('../Flower-Asset/copy-space-roses-flowers_23-2148860032.avif');
+    width: 1900px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 50px;
+}
+
+.thank{
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    padding-top: 130px;
 }
 
