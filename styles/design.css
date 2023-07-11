@@ -178,3 +178,16 @@ main{
     height: 420px;
     padding: 100px 430px 100px 0;
 }
+
+/* rectangular image related css */
+.rectangle-images{
+    align-items: center;
+    padding: 0 240px 128px 240px;
+    width: 340px;
+    height: 395px;
+    display: flex;
+}
+
+.margin{
+    margin-right: 20px;
+}
