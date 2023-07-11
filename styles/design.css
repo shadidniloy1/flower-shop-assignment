@@ -191,3 +191,11 @@ main{
 .margin{
     margin-right: 20px;
 }
+
+/* form related css */
+
+.form{
+    width: 1440px;
+    height: 450px;
+    background-image: url("../Flower-Asset/Rectangle\ 9.png");
+}
