@@ -198,4 +198,41 @@ main{
     width: 1440px;
     height: 450px;
     background-image: url("../Flower-Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    align-items: center;
+    margin: 0 240px 130px 240px;
+}
+
+.down-title{
+    padding: 122px 535px 4px 535px;
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+.down-para{
+    padding: 0 605px 50px 575px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.form-input{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    padding: 0 16px 121px 285px;
+}
+.formation{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    
+}
+
+#alignment{
+    margin-left: 15px;
 }
